@@ -1,7 +1,7 @@
 
 import { createContext, useState } from 'react'
 import './App.css'
-import UseContext from './components/useContext'
+import UseContext from './components/UseContext'
 
 export const ToggleTheme = createContext(false)
 
